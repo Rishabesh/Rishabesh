@@ -1,49 +1,65 @@
-# 👋 Hi, I'm Rishabesh Suthaar!
-
-⚡ **Electrical & Electronic Engineering Student** at the **University of Kent**  
-🔌 Passionate about circuits, embedded systems, and all things electronics  
-💻 Enjoy programming as much as soldering  
-
-## 🛠️ My Tech Stack
-
 <div align="center">
   
+# ⚡ Hello World! I'm Rishabesh Suthaar  
+
+<img src="https://media.giphy.com/media/l0HU7JI1Ac0sK3Q9a/giphy.gif" width="200">  
+*(GIF: Replace with one of you working on circuits or at Kent!)*  
+
+**🔌 BEng Electrical & Electronic Engineering**  
+🏛️ **University of Kent** | ⚡ Embedded Systems | 🤖 Robotics  
+
+</div>
+
+---
+
+## **🛠️ My Toolkit**  
+
+<div align="center">
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/topics/c-programming)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/topics/cpp)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/topics/arduino)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://github.com/topics/raspberry-pi)
+[![Raspberry Pi](https://img.shields.io/badge/RPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://github.com/topics/raspberry-pi)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)  
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/topics/matlab)
-  
+[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://github.com/topics/kicad)
+[![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black)](https://github.com/topics/labview)  
+
 </div>
 
-## 🔥 Currently Working On
+---
 
-![Embedded Systems GIF](https://media.giphy.com/media/l1J9RFoB4bfWrQ5Yc/giphy.gif)
-![Circuit Design GIF](https://media.giphy.com/media/3o7TKsrf5hUzJoQnI4/giphy.gif)
-
-- 📟 Embedded systems projects with ARM Cortex-M  
-- 🔋 Renewable energy systems research  
-- 🤖 Robotics club activities  
-
-## 🌟 GitHub Stats
+## **🔬 Current Projects**  
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![PCB Design](https://media.giphy.com/media/3o7TKsrf5hUzJoQnI4/giphy.gif) *(GIF: Circuit simulation)*  
+![Robotics](https://media.giphy.com/media/l1J9RFoB4bfWrQ5Yc/giphy.gif) *(GIF: Robotics arm)*  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+- **ARM Cortex-M4** embedded systems development  
+- **Renewable energy microgrids** research @ Kent  
+- **Robotics Society** projects (link if available)  
 
 </div>
 
-## 📫 How to Reach Me
+---
+
+## **📊 GitHub Stats**  
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabesh/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabesh03@gmail.com)
-[![University](https://img.shields.io/badge/University_of_Kent-4B2E83?style=for-the-badge&logo=academia&logoColor=white)](https://www.kent.ac.uk/)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true)  
 
 </div>
 
-![Engineering Student GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+---
+
+## **📫 Let's Connect!**  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabesh)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rs989@kent.ac.uk)  
+[![University of Kent](https://img.shields.io/badge/University_of_Kent-00205B?style=for-the-badge&logo=academia&logoColor=white)](https://www.kent.ac.uk/)  
+
+</div>
