@@ -19,12 +19,9 @@
 
 [![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/topics/embedded-c)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/topics/arduino)
-[![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-M-0091BD?style=for-the-badge&logo=arm&logoColor=white)](https://github.com/topics/arm-cortex)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/topics/matlab)
 [![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://github.com/topics/kicad)  
-[![Circuit Design](https://img.shields.io/badge/Circuit_Design-FF6600?style=for-the-badge&logo=circuit-diagram&logoColor=white)](https://github.com/topics/electronics)
-[![Power Systems](https://img.shields.io/badge/Power_Systems-FF0000?style=for-the-badge&logo=power-plug&logoColor=white)](https://github.com/topics/power-electronics)
 
 </div>
 
