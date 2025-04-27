@@ -63,9 +63,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabesh)  
-[![Email](https://img.shields.io/badge/Email-rishabesh@kent.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabesh@kent.ac.uk)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow_My_Work-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Projects-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/Email-rishabesh@kent.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabesh@kent.ac.uk)    
 
 </div>
 
