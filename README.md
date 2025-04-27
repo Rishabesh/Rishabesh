@@ -66,7 +66,7 @@
 
 <div align="center">
   
-![Kent Engineering Building](https://media.giphy.com/media/3o7TKR1AtmQxMZtq9a/giphy.gif)  
+![Kent Engineering Building](https://www.kent.ac.uk/engineering-and-digital-design)  
 *University of Kent - School of Engineering*  
 
 </div>
