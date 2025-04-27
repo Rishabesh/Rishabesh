@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyYnRjY2N4d2V1Y2VqY2Z2Z3J5eWxqY2l4Y3BhbjB1bmRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7JI1Ac0sK3Q9a/giphy.gif" width="300">  
 
 **🔌 BEng Electrical & Electronic Engineering**  
-🏛️ **University of Kent** | ⚡ Embedded Systems Enthusiast | 🤖 Robotics Club Member  
+🏛️ **University of Kent** | ⚡ Embedded Systems Enthusiast | 🤖 Engineering Society Member  
 
 [![Kent Engineering](https://img.shields.io/badge/University_of_Kent-00205B?style=for-the-flat&logo=university&logoColor=white)](https://www.kent.ac.uk/engineering)  
 
@@ -30,7 +30,7 @@
 
 ---
 
-## **🔬 Active Projects @ Kent**  
+## **🔬 Projects**  
 
 <div align="center">
   
