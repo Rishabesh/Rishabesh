@@ -54,6 +54,6 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabesh)  
-[![Email](https://img.shields.io/badge/Email-rishabesh@kent.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:----)    
+[![Email](https://img.shields.io/badge/Email-----@kent.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:----)    
 
 </div>
