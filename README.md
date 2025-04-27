@@ -31,12 +31,6 @@
 
 <div align="center">
   
-![Embedded Systems](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
-*(ARM Cortex-M4 Development)*  
-
-![Renewable Energy](https://media.giphy.com/media/ZdFjZfTpzPtUY/giphy.gif)  
-*(Microgrid Research Lab)*  
-
 - **Colour Sorting System** (PCB design + Fusion 360)  
 - **2D Platform Game** (Python + AI opponents)  
 
