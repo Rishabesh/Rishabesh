@@ -17,7 +17,6 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-[![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/topics/embedded-c)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=blue)](https://github.com/topics/arduino)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/topics/python)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/topics/matlab)
