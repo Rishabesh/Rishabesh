@@ -63,10 +63,3 @@
 [![Email](https://img.shields.io/badge/Email-rishabesh@kent.ac.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabesh@kent.ac.uk)    
 
 </div>
-
-<div align="center">
-  
-![Kent Engineering Building](https://www.kent.ac.uk/engineering-and-digital-design)  
-*University of Kent - School of Engineering*  
-
-</div>
