@@ -31,7 +31,7 @@
 
 <div align="center">
   
-- **Colour Sorting System** (PCB design + Fusion 360)  
+- **Colour Sorting System** (EAGLE PCB design + Arduino)  
 - **2D Platform Game** (Python + AI opponents)  
 
 </div>
