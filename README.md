@@ -47,8 +47,8 @@
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabesh&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabesh&layout=compact&theme=radical&hide_border=true)  
 
 </div>
 
