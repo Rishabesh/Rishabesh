@@ -2,7 +2,7 @@
   
 # ⚡ Hello World! I'm Rishabesh Suthaar  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyYnRjY2N4d2V1Y2VqY2Z2Z3J5eWxqY2l4Y3BhbjB1bmRqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7JI1Ac0sK3Q9a/giphy.gif" width="300">  
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW91ODhqbHJvMzZjYWhkNXJvMWpsaGhydjA4Mjl3N25jOHlleHp3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpyHdJiioVfdtK0/giphy.gif" width="300">  
 
 **🔌 BEng Electrical & Electronic Engineering**  
 🏛️ **University of Kent** | ⚡ Embedded Systems Enthusiast | 🤖 Engineering Society Member  
