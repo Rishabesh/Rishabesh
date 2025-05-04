@@ -32,7 +32,7 @@
 <div align="center">
   
 - **Colour Sorting System** (EAGLE PCB design + Arduino)  
-- **2D Platform Game** (Python + AI opponents)  
+- **Alien Adventures (2D Platform Game)** (Python + AI opponents)  
 
 </div>
 
