@@ -31,8 +31,8 @@
 
 <div align="center">
   
-- **Colour Sorting System** (EAGLE PCB design + Arduino)  _private repo_
-- **Alien Adventures (2D Platform Game)** (Python + AI opponents)  _private repo_
+- **Colour Sorting System** (EAGLE PCB design + Arduino)  _private repository_
+- **Alien Adventures** (2D Platform Game + Python + AI opponents)  _private repository_
 
 </div>
 
