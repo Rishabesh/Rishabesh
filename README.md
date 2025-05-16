@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello World! I'm Rishabesh Suthaar  
+# Hello World! I'm Rishabesh  
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW91ODhqbHJvMzZjYWhkNXJvMWpsaGhydjA4Mjl3N25jOHlleHp3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpyHdJiioVfdtK0/giphy.gif" width="300">  
 
