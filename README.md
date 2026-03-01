@@ -5,7 +5,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW91ODhqbHJvMzZjYWhkNXJvMWpsaGhydjA4Mjl3N25jOHlleHp3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpyHdJiioVfdtK0/giphy.gif" width="300">  
 
 **🔌 BEng Electrical & Electronic Engineering**  
-🏛️ **University of Kent** | ⚡ Embedded Systems Enthusiast | 🤖 Engineering Society Member  
+🏛️ **University of Kent** | ⚡ Embedded Systems Enthusiast | 🤖 
 
 [![Kent Engineering](https://img.shields.io/badge/University_of_Kent-00205B?style=for-the-flat&logo=university&logoColor=white)](https://www.kent.ac.uk/engineering)  
 
@@ -20,8 +20,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=blue)](https://github.com/topics/arduino)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://github.com/topics/python)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/topics/matlab)
-[![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=orange)](https://github.com/topics/fusion360)
-[![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://github.com/topics/kicad)  
+[![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=orange)](https://github.com/topics/fusion360) 
 
 </div>
 
