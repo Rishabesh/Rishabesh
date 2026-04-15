@@ -32,7 +32,7 @@
   
 - **Colour Sorting System** (EAGLE PCB design + Arduino)  _private repository_
 - **Alien Adventures** (2D Platform Game + Python + AI opponents)  _private repository_
-
+- **Bipedal Robot** (Currently in development)  _private repository_
 </div>
 
 ---
